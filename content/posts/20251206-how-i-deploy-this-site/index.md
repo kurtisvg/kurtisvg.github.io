@@ -19,8 +19,9 @@ doing so boils down to:
 - Most of my job is explaining things to people. A blog is good practice for
   converting my raw ideas into something other people can actually understand.
 - Internally, when I find myself describing the same concept multiple times, I
-  write a google doc. However, lately I’ve been increasingly doing this outside
-  of Google, and figure a post is easier to share than a Google doc. 
+  write a Google doc. However, lately I’ve found myself increasingly wanted to
+  socialize ideas with a wider audience, and figure a post is easier to share
+  than a Google doc. 
 - I have a fairly complicated “homelab” setup. I end up ~~bragging~~ talking to
   people about it alot, and would like to do a better job of both documenting it
   and sharing that for folks that are interested. 
