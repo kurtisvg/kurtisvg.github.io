@@ -1,4 +1,4 @@
-module github.com/kurtisvg/kurtisvg.github.io
+module github.com/kurtisvg/kvg.dev
 
 go 1.25.4
 
