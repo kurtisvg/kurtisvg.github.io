@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "kurtisvg.dev"
+title = "kvg.dev"
 
 [params]
   displayName = "EN"
